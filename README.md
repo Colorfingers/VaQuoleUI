@@ -5,7 +5,7 @@ Overview
 
 With the VaQuoleUI plugin you can create interactive User Interfaces for your game using powerful pipeline of **HTML5, CSS and JavaScript** web UI creation.
 
-Check the **[Wiki](https://github.com/ufna/VaQuoleUI/wiki)** tab to know more about the plugin.
+Check the **[Wiki](https://github.com/Colorfingers/VaQuoleUI/wiki)** tab to know more about the plugin.
 
 Current version: **1.1 Beta 13**
 
